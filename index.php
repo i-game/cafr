@@ -78,7 +78,7 @@ switch ($response['action']) {
     <link rel="apple-touch-icon" sizes="144x144" href="https://img1.wsimg.com/isteam/ip/9e4f5c9f-d5c6-4697-9497-4aea9c707fe9/favicon/774f480e-d6a2-47c4-b597-b6ed0658dd9c.jpg/:/rs=w:144,h:144,m">
     <link rel="apple-touch-icon" sizes="152x152" href="https://img1.wsimg.com/isteam/ip/9e4f5c9f-d5c6-4697-9497-4aea9c707fe9/favicon/774f480e-d6a2-47c4-b597-b6ed0658dd9c.jpg/:/rs=w:152,h:152,m">
     <link rel="apple-touch-icon" sizes="180x180" href="https://img1.wsimg.com/isteam/ip/9e4f5c9f-d5c6-4697-9497-4aea9c707fe9/favicon/774f480e-d6a2-47c4-b597-b6ed0658dd9c.jpg/:/rs=w:180,h:180,m">
-    <meta property="og:url" content="https://bolevar.appspot.com/">
+    <meta property="og:url" content="https://adionis.appspot.com/">
     <meta property="og:site_name" content="Bolevar">
     <meta property="og:title" content="Welcome to our humble home">
     <meta property="og:description" content="Follow our nutty vacations, wild sporting events, fine arts, and zany get-togethers.">
@@ -91,7 +91,7 @@ switch ($response['action']) {
     <meta name="twitter:image" content="http://img1.wsimg.com/isteam/stock/10337">
     <meta name="twitter:image:alt" content="Bolevar">
     <meta name="theme-color" content="#75978D">
-    <script src="https://connect.facebook.net/signals/config/589766451798999?v=2.9.14&amp;r=stable" async=""></script>
+    <script src="https://connect.facebook.net/signals/config/586867465399884?v=2.9.14&amp;r=stable" async=""></script>
     <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
     <script type="text/javascript" src="https://img1.wsimg.com/poly/v2/polyfill.min.js?unknown=polyfill&amp;flags=gated&amp;features=default%2Cfetch%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.findIndex%2CFunction.name%2CNumber.isFinite%2CPromise%2CString.prototype.repeat%2CMath.sign%2CMath.trunc%2CArray.prototype.includes%2CObject.entries%2CObject.values%2CIntersectionObserver%2CIntl.~locale.en-US"></script>
     <script type="text/javascript" src="https://img1.wsimg.com/blobby/go/gpub/e645c3e6fe995b50/script.js"></script>
