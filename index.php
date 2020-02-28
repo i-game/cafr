@@ -67,7 +67,7 @@ switch ($response['action']) {
     <meta charSet="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>modocafr</title>
+    <title>dentcafr</title>
     <meta name="author" content="niocafr" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="apple-touch-icon" sizes="57x57" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:57,h:57,m" />
@@ -78,7 +78,7 @@ switch ($response['action']) {
     <link rel="apple-touch-icon" sizes="144x144" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:144,h:144,m" />
     <link rel="apple-touch-icon" sizes="152x152" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:152,h:152,m" />
     <link rel="apple-touch-icon" sizes="180x180" href="//img1.wsimg.com/isteam/ip/c4e4d647-9b58-426a-ba9d-8dcc80993a6c/favicon/096bc21e-f1d7-4eee-a530-697c4b799761.jpg/:/rs=w:180,h:180,m" />
-    <meta property="og:url" content="https://modocafr.appspot.com/" />
+    <meta property="og:url" content="https://dentcafr.appspot.com/" />
     <meta property="og:site_name" content="niocafr" />
     <meta property="og:title" content="Get your daily dose!" />
     <meta property="og:type" content="website" />
